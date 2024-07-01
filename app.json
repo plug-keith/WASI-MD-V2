@@ -1,15 +1,15 @@
 {
   "name": "wasi-md-v2",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
+  "logo": "https://th.bing.com/th/id/OIG2.RNcxR1Z6Q8WY8JZv0Tdb?w=1024&h=1024&rs=1&pid=ImgDetMain",
+  "keywords": ["KEITH-MD-V2", "KEITHV2", "KEITH MD","KEITH MD","Keith","keithtech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "keith-𝐓𝐄𝐂𝐇",
       "required": true
     },
     "CAPTION" : {
@@ -43,7 +43,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "Keith-𝐌𝐃-𝐕2"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
